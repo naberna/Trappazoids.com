@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa423B83f5e8C5A2b47676316f22B91E6dFcE3Cd1",
+  "SCAN_LINK": "https://cronoscan.com/token/0xa423B83f5e8C5A2b47676316f22B91E6dFcE3Cd1",
+  "NETWORK": {
+    "NAME": "Cronos",
+    "SYMBOL": "CRO",
+    "ID": 25
+  },
+  "NFT_NAME": "CroArmy Jackals",
+  "SYMBOL": "ARMYJACKAL",
+  "MAX_SUPPLY": 4200,
+  "WEI_COST": 150000000000000000000,
+  "DISPLAY_COST": 150,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "TofuNFT",
+  "MARKETPLACE_LINK": "http://TofuNFT.com",
+  "SHOW_BACKGROUND": true
+}
